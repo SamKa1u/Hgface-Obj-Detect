@@ -4,7 +4,7 @@ Implements a Hugging Face model trained in object detection by leveraging the tr
 
 ## Description
 
-The model was pre-trained on ImageNet-1k and fine-tuned on COCO 2017 for object detection of household items.
+The model was pre-trained on ImageNet-1k and fine-tuned on COCO 2017 for object detection of household items. This python script runs model inference from a webcam feed and displays it to a window with an annotated frame.
 
 ### Dependencies
 
